@@ -10,7 +10,7 @@
     "react-dom": "link:../node_modules/react-dom",
     "react-scripts": "link:../node_modules/react-scripts",
     "typescript": "link:../node_modules/typescript",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^2.1.1"
   },
   "scripts": {
     "dev": "next",
